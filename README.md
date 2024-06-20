@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Devendra(Dev-इन्द्र)</h1>
 <h3 align="center">A Data Science & Cyber Security enthusiast, learning Data Engineering</h3>
 <img align ="right" alt ="coding"  height = "300" width ="300" src ="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExeHl1NDJ6cGs5cjZnZTFocmczcTFuMGVuOW4zM21vaGtoM21hOHZwMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/du3J3cXyzhj75IOgvA/giphy.webp">
-- 🔭 I’m currently working on:-> **developing skills**
+
+- 🔭 I’m currently working on:-> **Developing Skills**
 
 - 🌱 I’m currently learning:-> **Data Analytics and Data Engineering**
 
